@@ -1,6 +1,6 @@
 ### Hello world! 👋🌍
 
-I'm *Lorenzo*, a Master Student in **Artificial Intelligence** @ UniTO!
+I'm *Lorenzo*, a Master's Graduate in **Artificial Intelligence** @ UniTO!
 I'm italian but fluent in english.
 
 ### What am I working on? 💻
