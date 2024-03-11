@@ -7,10 +7,4 @@ I'm *Lorenzo*, a Software Engineer with a Master's Degree in **Artificial Intell
 
 📫 How to reach me:  
  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-favaro/)  
- - `lorenzo.favaro@protonmail.com`
-
-&nbsp;
-
-🧑‍💻 Other coding platforms:
-
-[![CodinGame](https://img.shields.io/static/v1?style=for-the-badge&message=CodinGame&color=222222&logo=CodinGame&logoColor=F2BB13&label=)](https://www.codingame.com/profile/38d87ce2e92853b0a5187f22c91475f63032025)
+ - <a target="_blank" href="mailto:lorenzo.favaro27@gmail.com"><img align="center" src="https://img.shields.io/badge/-lorenzo.favaro27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorenzo.favaro27@gmail.com"></a>
